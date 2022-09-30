@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>שיחה ללא נושא</title>
+        <link>https://RadioBenZvi.github.io/</link>
+        <description>
+            <![CDATA[על החיים וכל השאר עם שקד טל יואב ולפעמים גם עוד אנשים.]]>
+        </description>
+        <atom:link href="https://RadioBenZvi.github.io/podcast/ATWAS/feed" rel="self" type="application/rss+xml"/>
+        <language>he</language>
+        <category>Arts</category>
+        <copyright>Copyright Radio Ben Zvi</copyright>
+        <image>
+            <url>https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png</url>
+            <title>שיחה ללא נושא</title>
+            <link>https://RadioBenZvi.github.io/podcast/ATWAS</link>
+        </image>
+        <lastBuildDate>Tue, 13 Sep 2022 11:28:43 +0000</lastBuildDate>
+        <itunes:author>Radio Ben Zvi</itunes:author>
+        <itunes:owner>
+            <itunes:name>Radio Ben Zvi</itunes:name>
+            <itunes:email>shakedkod@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png"/>
+        <itunes:subtitle>על החיים וכל השאר עם שקד טל יואב ולפעמים גם עוד אנשים.</itunes:subtitle>
+        <itunes:summary>
+            <![CDATA[על החיים וכל השאר עם שקד טל יואב ולפעמים גם עוד אנשים.]]>
+        </itunes:summary>
+        <itunes:category text="Arts"/>
+        <itunes:explicit>clean</itunes:explicit>
+        <itunes:type>episodic</itunes:type>
+        <!-- Episode 3 -->
+        <!--<item>
+            <title>מעולמות שונים</title>
+            <link>https://RadioBenZvi.github.io/podcast/ATWAS/3</link>
+            <description>
+                <![CDATA[הפרק השלישי של שיחה ללא נושא עם שקד, טל, אלון, יואב, ליעד ואוריאן.
+בפרק זה הם מדברים על שירים, דברים רנדומליים, לימודים, קולה ועוד
+                האזנה נעימה!
+<br>
+<strong>-=קישורים=-</strong>
+אתר - https://RadioBenZvi.github.io/
+יוטיוב - 
+הפודקאסט בספוטיפי - https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392
+הפודקאסט באפל מיוזיק - 
+כל הפרקים ביוטיוב - 
+<br>
+<strong>-=מוזיקה=-</strong>
+* Howard Harper-Barnes - We All Need Adventures(The Center)
+<br>
+<strong>© Radio Ben Zvi 2022</strong>]]>
+            </description>
+            <googleplay:description>הפרק השלישי של שיחה ללא נושא עם שקד, טל, אלון, יואב, ליעד, ואוריאן&#13;
+                בפרק זה הם מדברים על שירים, דברים רנדומליים, לימודים, קולה ועוד&#13;
+האזנה נעימה!&#13;
+&#13;
+-=קישורים=-&#13;
+אתר - https://RadioBenZvi.github.io/&#13;
+יוטיוב - &#13;
+הפודקאסט בספוטיפי - https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392/&#13;
+הפודקאסט באפל מיוזיק - &#13;
+כל הפרקים ביוטיוב - &#13;
+&#13;
+-=מוזיקה=-&#13;
+* Howard Harper-Barnes - We All Need Adventures(The Center)&#13;
+&#13;
+© Radio Ben Zvi 2022&#13;</googleplay:description>
+            <pubDate>Tue, 27 Sep 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/audio/3.mp3" length="2750000" type="audio/mpeg"/>
+            <itunes:author>Radio Ben Zvi</itunes:author>
+            <itunes:subtitle>הפרק השלישי של שיחה ללא נושא עם שקד, טל, אלון, יואב, ליעד, ואוריאן. בפרק זה הם מדברים על שירים, דברים רנדומליים, לימודים, קולה ועוד. האזנה נעימה!</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[הפרק השלישי של שיחה ללא נושא עם שקד, טל, אלון, יואב, ליעד, ואוריאן.
+                בפרק זה הם מדברים על שירים, דברים רנדומליים, לימודים, קולה ועוד
+                האזנה נעימה!
+<br>
+<strong>-=קישורים=-</strong>
+אתר - https://RadioBenZvi.github.io/
+יוטיוב - 
+הפודקאסט בספוטיפי - <a herf="https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392">https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392<a/>
+הפודקאסט באפל מיוזיק - 
+כל הפרקים ביוטיוב - 
+<br>
+<strong>-=מוזיקה=-</strong>
+* Howard Harper-Barnes - We All Need Adventures(The Center)
+<br>
+<strong>© Radio Ben Zvi 2022</strong>]]>
+            </itunes:summary>
+            <itunes:duration>2750</itunes:duration>
+            <itunes:keywords>ועוד,לימודים,מבחנים,מים,רדיובןצבי,שיחה,שיחהללאנושא,שירים</itunes:keywords>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:image href="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png"/>
+            <itunes:season>1</itunes:season>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    -->
+        <!-- Episode 2 -->
+        <item>
+            <title>גרמנית, ג'אווה ועוד שירים</title>
+            <link>https://RadioBenZvi.github.io/podcast/ATWAS/2</link>
+            <description>
+                <![CDATA[הפרק השני של שיחה ללא נושא עם שקד, טל, אלון, ושירה.
+בפרק זה הם מדברים על שפות מוזרות, על שירים, טניס ועוד
+האזנה נעימה!
+<br>
+<strong>-=קישורים=-</strong>
+אתר - https://RadioBenZvi.github.io/
+יוטיוב - 
+הפודקאסט בספוטיפי - <a herf="https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392">https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392<a/>
+הפודקאסט באפל מיוזיק - 
+כל הפרקים ביוטיוב - 
+<br>
+<strong>-=מוזיקה=-</strong>
+* Howard Harper-Barnes - We All Need Adventures(The Center)
+<br>
+<strong>© Radio Ben Zvi 2022</strong>]]>
+            </description>
+            <googleplay:description>הפרק השני של שיחה ללא נושא עם שקד, טל, אלון, ושירה.&#13;
+בפרק זה הם מדברים על שפות מוזרות, על שירים, טניס, ועוד&#13;
+האזנה נעימה!&#13;
+&#13;
+-=קישורים=-&#13;
+אתר - https://RadioBenZvi.github.io/&#13;
+יוטיוב - &#13;
+הפודקאסט בספוטיפי - https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392/&#13;
+הפודקאסט באפל מיוזיק - &#13;
+כל הפרקים ביוטיוב - &#13;
+&#13;
+-=מוזיקה=-&#13;
+* Howard Harper-Barnes - We All Need Adventures(The Center)&#13;
+&#13;
+© Radio Ben Zvi 2022&#13;</googleplay:description>
+            <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/audio/2.mp3" length="99038918" type="audio/mpeg"/>
+            <itunes:author>Radio Ben Zvi</itunes:author>
+            <itunes:subtitle>הפרק השני של שיחה ללא נושא עם שקד, טל, אלון, ושירה. בפרק זה הם מדברים על שפות מוזרות, על שירים, טניס ועוד האזנה נעימה! </itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[הפרק השני של שיחה ללא נושא עם שקד, טל, אלון, ושירה.
+בפרק זה הם מדברים על שפות מוזרות, על שירים, טניס ועוד
+האזנה נעימה!
+<br>
+<strong>-=קישורים=-</strong>
+אתר - https://RadioBenZvi.github.io/
+יוטיוב - 
+הפודקאסט בספוטיפי - <a herf="https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392">https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392<a/>
+הפודקאסט באפל מיוזיק - 
+כל הפרקים ביוטיוב - 
+<br>
+<strong>-=מוזיקה=-</strong>
+* Howard Harper-Barnes - We All Need Adventures(The Center)
+<br>
+<strong>© Radio Ben Zvi 2022</strong>]]>
+            </itunes:summary>
+            <itunes:duration>3742</itunes:duration>
+            <itunes:keywords>ועוד,לימודים,מבחנים,מים,רדיובןצבי,שיחה,שיחהללאנושא,שירים</itunes:keywords>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:image href="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png"/>
+            <itunes:season>1</itunes:season>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <!-- Episode 1 -->
+        <item>
+            <title>על מבחנים, החיים ושירים</title>
+            <link>https://RadioBenZvi.github.io/podcast/ATWAS/1</link>
+            <description>
+                <![CDATA[הפרק הראשון של שיחה ללא נושא עם שקד, טל, ויואב.
+            בפרק זה הם מדברים על המבחנים הבאים, על שירים, פרסומות ועוד
+            האזנה נעימה!
+
+            <strong>-=קישורים=-</strong>
+            אתר - https://RadioBenZvi.github.io/
+            <a herf="">יוטיוב</a>
+            <a herf="">הפודקאסט בספוטיפי</a>
+            <a herf="">הפודקאסט באפל מיוזיק</a>
+            <a herf="">כל הפרקים ביוטיוב</a>
+
+            <strong>-=מוזיקה=-</strong>
+            * <a herf="">Luis Humanoide - Clockwork Lands: Chronicles Aboard an Airship</a>
+                
+            <strong>© Radio Ben Zvi 2022</strong>]]>
+            </description>
+            <pubDate>Tue, 13 Sep 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/audio/1.mp3" length="99038918" type="audio/mpeg"/>
+            <itunes:author>Radio Ben Zvi</itunes:author>
+            <itunes:subtitle>הפרק הראשון של שיחה ללא נושא עם שקד, טל, ויואב.בפרק זה הם מדברים על המבחנים הבאים, על שירים, פרסומות ועודהאזנה נעימה!-=קישורים=-אתריוטיובהפודקאסט בספוטיפי[בקרוב]הפודקאסט באפל מיוזיק[בקרוב]כל הפרקים ביוטיוב[בקרוב]-=מוזיקה=-Links© Radio Ben Zvi 2022</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[הפרק הראשון של שיחה ללא נושא עם שקד, טל, ויואב.
+                בפרק זה הם מדברים על המבחנים הבאים, על שירים, פרסומות ועוד
+                האזנה נעימה!
+            
+                <strong>-=קישורים=-</strong>
+                <a herf="https://RadioBenZvi.github.io/">אתר</a>
+                <a herf="">יוטיוב</a>
+                <a herf="">הפודקאסט בספוטיפי</a>
+                <a herf="">הפודקאסט באפל מיוזיק</a>
+                <a herf="">כל הפרקים ביוטיוב</a>
+
+                <strong>-=מוזיקה=-</strong>
+                * <a herf="">Luis Humanoide - Clockwork Lands: Chronicles Aboard an Airship</a>
+                
+                <strong>© Radio Ben Zvi 2022</strong>]]>
+            </itunes:summary>
+            <itunes:duration>4127</itunes:duration>
+            <itunes:keywords>ועוד,לימודים,מבחנים,מים,רדיובןצבי,שיחה,שיחהללאנושא,שירים</itunes:keywords>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:image href="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png"/>
+            <itunes:season>1</itunes:season>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+    </channel>
+</rss>
