@@ -11,7 +11,7 @@
         <category>Arts</category>
         <copyright>Copyright Radio Ben Zvi</copyright>
         <image>
-            <url>https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png</url>
+            <url>https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png</url>
             <title>שיחה ללא נושא</title>
             <link>https://RadioBenZvi.github.io/podcast/ATWAS</link>
         </image>
@@ -21,7 +21,7 @@
             <itunes:name>Radio Ben Zvi</itunes:name>
             <itunes:email>shakedkod@gmail.com</itunes:email>
         </itunes:owner>
-        <itunes:image href="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png"/>
+        <itunes:image href="https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png"/>
         <itunes:subtitle>על החיים וכל השאר עם שקד טל יואב ולפעמים גם עוד אנשים.</itunes:subtitle>
         <itunes:summary>
             <![CDATA[על החיים וכל השאר עם שקד טל יואב ולפעמים גם עוד אנשים.]]>
@@ -30,7 +30,7 @@
         <itunes:explicit>clean</itunes:explicit>
         <itunes:type>episodic</itunes:type>
         <!-- Episode 3 -->
-        <!--<item>
+        <item>
             <title>מעולמות שונים</title>
             <link>https://RadioBenZvi.github.io/podcast/ATWAS/3</link>
             <description>
@@ -66,7 +66,7 @@
 &#13;
 © Radio Ben Zvi 2022&#13;</googleplay:description>
             <pubDate>Tue, 27 Sep 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/audio/3.mp3" length="2750000" type="audio/mpeg"/>
+            <enclosure url="https://github.com/Shakedkod/ATWAS_Podcast/raw/main/audio/3.mp3" length="2750000" type="audio/mpeg"/>
             <itunes:author>Radio Ben Zvi</itunes:author>
             <itunes:subtitle>הפרק השלישי של שיחה ללא נושא עם שקד, טל, אלון, יואב, ליעד, ואוריאן. בפרק זה הם מדברים על שירים, דברים רנדומליים, לימודים, קולה ועוד. האזנה נעימה!</itunes:subtitle>
             <itunes:summary>
@@ -89,11 +89,10 @@
             <itunes:duration>2750</itunes:duration>
             <itunes:keywords>ועוד,לימודים,מבחנים,מים,רדיובןצבי,שיחה,שיחהללאנושא,שירים</itunes:keywords>
             <itunes:explicit>clean</itunes:explicit>
-            <itunes:image href="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png"/>
+            <itunes:image href="https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png"/>
             <itunes:season>1</itunes:season>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
-    -->
         <!-- Episode 2 -->
         <item>
             <title>גרמנית, ג'אווה ועוד שירים</title>
@@ -131,7 +130,7 @@
 &#13;
 © Radio Ben Zvi 2022&#13;</googleplay:description>
             <pubDate>Tue, 20 Sep 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/audio/2.mp3" length="99038918" type="audio/mpeg"/>
+            <enclosure url="https://github.com/Shakedkod/ATWAS_Podcast/raw/main/audio/2.mp3" length="99038918" type="audio/mpeg"/>
             <itunes:author>Radio Ben Zvi</itunes:author>
             <itunes:subtitle>הפרק השני של שיחה ללא נושא עם שקד, טל, אלון, ושירה. בפרק זה הם מדברים על שפות מוזרות, על שירים, טניס ועוד האזנה נעימה! </itunes:subtitle>
             <itunes:summary>
@@ -154,7 +153,7 @@
             <itunes:duration>3742</itunes:duration>
             <itunes:keywords>ועוד,לימודים,מבחנים,מים,רדיובןצבי,שיחה,שיחהללאנושא,שירים</itunes:keywords>
             <itunes:explicit>clean</itunes:explicit>
-            <itunes:image href="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png"/>
+            <itunes:image href="https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png"/>
             <itunes:season>1</itunes:season>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
@@ -180,7 +179,7 @@
             <strong>© Radio Ben Zvi 2022</strong>]]>
             </description>
             <pubDate>Tue, 13 Sep 2022 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/audio/1.mp3" length="99038918" type="audio/mpeg"/>
+            <enclosure url="https://github.com/Shakedkod/ATWAS_Podcast/raw/main/audio/1.mp3" length="99038918" type="audio/mpeg"/>
             <itunes:author>Radio Ben Zvi</itunes:author>
             <itunes:subtitle>הפרק הראשון של שיחה ללא נושא עם שקד, טל, ויואב.בפרק זה הם מדברים על המבחנים הבאים, על שירים, פרסומות ועודהאזנה נעימה!-=קישורים=-אתריוטיובהפודקאסט בספוטיפי[בקרוב]הפודקאסט באפל מיוזיק[בקרוב]כל הפרקים ביוטיוב[בקרוב]-=מוזיקה=-Links© Radio Ben Zvi 2022</itunes:subtitle>
             <itunes:summary>
@@ -203,7 +202,7 @@
             <itunes:duration>4127</itunes:duration>
             <itunes:keywords>ועוד,לימודים,מבחנים,מים,רדיובןצבי,שיחה,שיחהללאנושא,שירים</itunes:keywords>
             <itunes:explicit>clean</itunes:explicit>
-            <itunes:image href="https://github.com/RadioBenZvi/RadioBenZvi.github.io/raw/main/assets/assets/podcasts/ATWAS/images/logo.png"/>
+            <itunes:image href="https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png"/>
             <itunes:season>1</itunes:season>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
