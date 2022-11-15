@@ -6,7 +6,7 @@
         <description>
             <![CDATA[על החיים וכל השאר עם שקד טל יואב ולפעמים גם עוד אנשים.]]>
         </description>
-        <atom:link href="https://RadioBenZvi.github.io/podcast/ATWAS/feed" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://rss.shakedkod.tech" rel="self" type="application/rss+xml"/>
         <language>he</language>
         <category>Arts</category>
         <copyright>Copyright Radio Ben Zvi</copyright>
@@ -29,6 +29,70 @@
         <itunes:category text="Arts"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:type>episodic</itunes:type>
+        <!-- Episode 5 -->
+        <item>
+            <title>מה שלא היה נכנס - פרק בונוס</title>
+            <link>https://RadioBenZvi.github.io/podcast/ATWAS/5</link>
+            <description>
+                <![CDATA[הפרק הזה הינו כל מה שלא נכנס לפרקים הרגילים עם הודעה מיוחדת לרוני שחר
+                האזנה נעימה!
+<br>
+<strong>-=קישורים=-</strong>
+אתר - https://RadioBenZvi.github.io/
+יוטיוב - https://www.youtube.com/channel/UCS-d-xH0hS5D4RPLKBBe5og
+הפודקאסט בספוטיפי - https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392
+הפודקאסט בגוגל - https://podcasts.google.com/feed/aHR0cHM6Ly9zaGFrZWRrb2QuZ2l0aHViLmlvL0FUV0FTX1BvZGNhc3QvZmVlZC5yc3M/
+הפודקאסט באפל מיוזיק - https://podcasts.apple.com/podcast/id1654325732?app=podcast&at=1000lHKX&ct=linktree_http&itscg=30200&itsct=lt_p&ls=1&mt=2/
+כל הפרקים ביוטיוב - https://youtube.com/playlist?list=PLGUNdKopvOVJhSI29vR9_IA_iscAWBelT/
+<br>
+<strong>-=מוזיקה=-</strong>
+* Howard Harper-Barnes - We All Need Adventures(The Center)
+<br>
+<strong>© Radio Ben Zvi 2022</strong>]]>
+            </description>
+            <googleplay:description> הזה הינו כל מה שלא נכנס לפרקים הרגילים עם הודעה מיוחדת לרוני שחר&#13;
+האזנה נעימה!&#13;
+&#13;
+-=קישורים=-&#13;
+אתר - https://RadioBenZvi.github.io/&#13;
+יוטיוב - https://www.youtube.com/channel/UCS-d-xH0hS5D4RPLKBBe5og&#13;
+הפודקאסט בספוטיפי - https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392/&#13;
+הפודקאסט בגוגל - https://podcasts.google.com/feed/aHR0cHM6Ly9zaGFrZWRrb2QuZ2l0aHViLmlvL0FUV0FTX1BvZGNhc3QvZmVlZC5yc3M/&#13;
+הפודקאסט באפל מיוזיק - https://podcasts.apple.com/podcast/id1654325732?app=podcast&at=1000lHKX&ct=linktree_http&itscg=30200&itsct=lt_p&ls=1&mt=2/&#13;
+כל הפרקים ביוטיוב - https://youtube.com/playlist?list=PLGUNdKopvOVJhSI29vR9_IA_iscAWBelT/&#13;
+&#13;
+-=מוזיקה=-&#13;
+* Howard Harper-Barnes - We All Need Adventures(The Center)&#13;
+&#13;
+© Radio Ben Zvi 2022&#13;</googleplay:description>
+            <pubDate>Tue, 15 Nov 2022 16:30:00 +0000</pubDate>
+            <enclosure url="https://github.com/Shakedkod/ATWAS_Podcast/raw/main/audio/2205.mp3" length="1260000" type="audio/mpeg"/>
+            <itunes:author>Radio Ben Zvi</itunes:author>
+            <itunes:subtitle> הזה הינו כל מה שלא נכנס לפרקים הרגילים עם הודעה מיוחדת לרוני שחר</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[הפרק הזה הינו כל מה שלא נכנס לפרקים הרגילים עם הודעה מיוחדת לרוני שחר
+                האזנה נעימה!
+<br>
+<strong>-=קישורים=-</strong>
+אתר - https://RadioBenZvi.github.io/
+יוטיוב - https://www.youtube.com/channel/UCS-d-xH0hS5D4RPLKBBe5og
+הפודקאסט בספוטיפי - https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392
+הפודקאסט בגוגל - https://podcasts.google.com/feed/aHR0cHM6Ly9zaGFrZWRrb2QuZ2l0aHViLmlvL0FUV0FTX1BvZGNhc3QvZmVlZC5yc3M/
+הפודקאסט באפל מיוזיק - https://podcasts.apple.com/podcast/id1654325732?app=podcast&at=1000lHKX&ct=linktree_http&itscg=30200&itsct=lt_p&ls=1&mt=2/
+כל הפרקים ביוטיוב - https://youtube.com/playlist?list=PLGUNdKopvOVJhSI29vR9_IA_iscAWBelT/
+<br>
+<strong>-=מוזיקה=-</strong>
+* Howard Harper-Barnes - We All Need Adventures(The Center)
+<br>
+<strong>© Radio Ben Zvi 2022</strong>]]>
+            </itunes:summary>
+            <itunes:duration>1260</itunes:duration>
+            <itunes:keywords>ועוד,לימודים,מבחנים,מים,רדיובןצבי,שיחה,שיחהללאנושא,שירים</itunes:keywords>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:image href="https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png"/>
+            <itunes:season>1</itunes:season>
+            <itunes:episodeType>bonus</itunes:episodeType>
+        </item>
         <!-- Episode 4 -->
         <item>
             <title>לאן הגענו?</title>
@@ -68,21 +132,21 @@
             <pubDate>Tue, 27 Oct 2022 12:00:00 +0000</pubDate>
             <enclosure url="https://github.com/Shakedkod/ATWAS_Podcast/raw/main/audio/2204.mp3" length="2343000" type="audio/mpeg"/>
             <itunes:author>Radio Ben Zvi</itunes:author>
-            <itunes:subtitle>הפרק השלישי של שיחה ללא נושא עם שקד, טל, אלון, יואב, ליעד, ואוריאן. בפרק זה הם מדברים על שירים, דברים רנדומליים, לימודים, קולה ועוד. האזנה נעימה!</itunes:subtitle>
+            <itunes:subtitle>הפרק השלישי של שיחה ללא נושא עם שקד,רוני, ליעד, שירה, רוטמן, גלעד וגם כפי שידוע לי ישו משום מה.</itunes:subtitle>
             <itunes:summary>
-                <![CDATA[הפרק השלישי של שיחה ללא נושא עם שקד, טל, אלון, יואב, ליעד, ואוריאן.
-                בפרק זה הם מדברים על שירים, דברים רנדומליים, לימודים, קולה ועוד
+                <![CDATA[הפרק הרביעי של שיחה ללא נושא עם שקד, רוני, ליעד, שירה, רוטמן, גלעד וגם כפי שידוע לי ישו משום מה.
+בפרק זה הם מדברים על פוליטיקה, נועה קירל, ומלא דברים רנדומליים אחרים
                 האזנה נעימה!
 <br>
 <strong>-=קישורים=-</strong>
 אתר - https://RadioBenZvi.github.io/
 יוטיוב - 
-הפודקאסט בספוטיפי - <a herf="https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392">https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392<a/>
+הפודקאסט בספוטיפי - https://open.spotify.com/show/00AVovDZ91dF3ccD2Tmhs8?si=d78a5bc5e0434392
 הפודקאסט באפל מיוזיק - 
 כל הפרקים ביוטיוב - 
 <br>
 <strong>-=מוזיקה=-</strong>
-* Howard Harper-Barnes - We All Need Adventures(The Center)
+* TheFatRat - Xenogenesis
 <br>
 <strong>© Radio Ben Zvi 2022</strong>]]>
             </itunes:summary>
