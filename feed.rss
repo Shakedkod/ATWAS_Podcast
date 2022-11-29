@@ -4,12 +4,12 @@
         <title>שיחה ללא נושא</title>
         <link>https://RadioBenZvi.github.io/</link>
         <description>
-            <![CDATA[על החיים וכל השאר עם שקד טל יואב ולפעמים גם עוד אנשים.]]>
+            <![CDATA[על החיים וכל השאר עם כל מיני אנשים משונים, מעניינים, ומוזרים בהנחיית שקד קוד.]]>
         </description>
         <atom:link href="https://rss.shakedkod.tech" rel="self" type="application/rss+xml"/>
         <language>he</language>
-        <category>Arts</category>
-        <copyright>Copyright Radio Ben Zvi</copyright>
+        <category>Entertainment</category>
+        <copyright>©ShakedKod</copyright>
         <image>
             <url>https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png</url>
             <title>שיחה ללא נושא</title>
@@ -18,18 +18,83 @@
         <lastBuildDate>Tue, 13 Sep 2022 11:28:43 +0000</lastBuildDate>
         <itunes:author>Radio Ben Zvi</itunes:author>
         <itunes:owner>
-            <itunes:name>Radio Ben Zvi</itunes:name>
+            <itunes:name>ShakedKod</itunes:name>
             <itunes:email>shakedkod@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:image href="https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png"/>
-        <itunes:subtitle>על החיים וכל השאר עם שקד טל יואב ולפעמים גם עוד אנשים.</itunes:subtitle>
+        <itunes:subtitle>על החיים וכל השאר עם כל מיני אנשים משונים, מעניינים, ומוזרים בהנחיית שקד קוד.</itunes:subtitle>
         <itunes:summary>
-            <![CDATA[על החיים וכל השאר עם שקד טל יואב ולפעמים גם עוד אנשים.]]>
+            <![CDATA[על החיים וכל השאר עם כל מיני אנשים משונים, מעניינים, ומוזרים בהנחיית שקד קוד.]]>
         </itunes:summary>
         <itunes:category text="Arts"/>
         <itunes:explicit>clean</itunes:explicit>
         <itunes:type>episodic</itunes:type>
+        <googleplay:author>Radio Ben Zvi</googleplay:author>
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
+        <!-- Episode 6 -->
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
+        <item>
+            <title>גילי אמרה לי לקרוא לפרק הזה "שיחת בנות" - למרות שהוא לא</title>
+            <link>https://RadioBenZvi.github.io/podcast/ATWAS/6</link>
+            <description>
+                <![CDATA[הפרק השישי של שיחה ללא נושא עם שקד, גילי, עומר, רוני, ליעד, שחר ואוריאן.
+בפרק זה הם מדברים על לימודים, סדרות משונות, ופרקים קודמים
+                האזנה נעימה!
+<br>
+<strong>-=קישורים=-</strong>
+<a href="https://linktr.ee/Radio.BenZvi">הפודקאסט בכל האתרים</a>
+<br>
+<strong>-=מוזיקה=-</strong>
+* יותם רגב(<a href="https://www.instagram.com/yotam_regev_/">@yotam_regev_</a>)
+<br>
+<strong>© ShakedKod 2022</strong>]]>
+            </description>
+            <googleplay:description>הפרק השלישי של שיחה ללא נושא עם שקד, גילי, עומר, רוני, ליעד, שחר ואוריאן.&#13;
+בפרק זה הם מדברים על לימודים, סדרות משונות, ופרקים קודמים&#13;
+האזנה נעימה!&#13;
+&#13;
+<strong>-=קישורים=-</strong>&#13;
+<a href="https://linktr.ee/Radio.BenZvi">הפודקאסט בכל האתרים</a>
+&#13;
+<strong>-=מוזיקה=-</strong>&#13;
+* יותם רגב(<a href="https://www.instagram.com/yotam_regev_/">@yotam_regev_</a>)&#13;
+&#13;
+© ShakedKod 2022&#13;</googleplay:description>
+            <pubDate>Tue, 29 Oct 2022 12:00:00 +0000</pubDate>
+            <enclosure url="https://github.com/Shakedkod/ATWAS_Podcast/raw/main/audio/2206.mp3" length="5831000" type="audio/mpeg"/>
+            <itunes:author>Radio Ben Zvi</itunes:author>
+            <itunes:subtitle>הפרק השלישי של שיחה ללא נושא עם שקד, גילי, עומר, רוני, ליעד, שחר ואוריאן.</itunes:subtitle>
+            <itunes:summary>
+                <![CDATA[הפרק השישי של שיחה ללא נושא עם שקד, גילי, עומר, רוני, ליעד, שחר ואוריאן.
+בפרק זה הם מדברים על לימודים, סדרות משונות, ופרקים קודמים
+                האזנה נעימה!
+<br>
+<strong>-=קישורים=-</strong>
+<a href="https://linktr.ee/Radio.BenZvi">הפודקאסט בכל האתרים</a>
+<br>
+<strong>-=מוזיקה=-</strong>
+* יותם רגב(<a href="https://www.instagram.com/yotam_regev_/">@yotam_regev_</a>)
+<br>
+<strong>© ShakedKod 2022</strong>]]>
+            </itunes:summary>
+            <itunes:duration>5831</itunes:duration>
+            <itunes:keywords>ועוד,לימודים,מבחנים,מים,רדיובןצבי,שיחה,שיחהללאנושא,שירים</itunes:keywords>
+            <itunes:explicit>clean</itunes:explicit>
+            <itunes:image href="https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png"/>
+            <itunes:season>1</itunes:season>
+            <itunes:episodeType>full</itunes:episodeType>
+        </item>
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <!-- Episode 5 -->
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <item>
             <title>מה שלא היה נכנס - פרק בונוס</title>
             <link>https://RadioBenZvi.github.io/podcast/ATWAS/5</link>
@@ -92,7 +157,13 @@
             <itunes:season>1</itunes:season>
             <itunes:episodeType>bonus</itunes:episodeType>
         </item>
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <!-- Episode 4 -->
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <item>
             <title>לאן הגענו?</title>
             <link>https://RadioBenZvi.github.io/podcast/ATWAS/4</link>
@@ -156,7 +227,13 @@
             <itunes:season>1</itunes:season>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <!-- Episode 3 -->
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <item>
             <title>מעולמות שונים</title>
             <link>https://RadioBenZvi.github.io/podcast/ATWAS/3</link>
@@ -220,7 +297,13 @@
             <itunes:season>1</itunes:season>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <!-- Episode 2 -->
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <item>
             <title>גרמנית, ג'אווה ועוד שירים</title>
             <link>https://RadioBenZvi.github.io/podcast/ATWAS/2</link>
@@ -284,7 +367,13 @@
             <itunes:season>1</itunes:season>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <!-- Episode 1 -->
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
         <item>
             <title>על מבחנים, החיים ושירים</title>
             <link>https://RadioBenZvi.github.io/podcast/ATWAS/1</link>
@@ -333,5 +422,12 @@
             <itunes:season>1</itunes:season>
             <itunes:episodeType>full</itunes:episodeType>
         </item>
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
+        <!--  The End  -->
+        <!--    //     -->
+        <!--    //     -->
+        <!--    //     -->
     </channel>
 </rss>
