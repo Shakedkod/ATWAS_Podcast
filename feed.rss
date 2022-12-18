@@ -28,7 +28,7 @@
         </itunes:summary>
         <itunes:category text="Arts"/>
         <itunes:explicit>clean</itunes:explicit>
-        <itunes:type>episodic</itunes:type>
+        <itunes:type>episodic</itunes:type >
         <googleplay:author>Radio Ben Zvi</googleplay:author>
         <!--    //     -->
         <!--    //     -->
@@ -37,7 +37,7 @@
         <!--    //     -->
         <!--    //     -->
         <!--    //     -->
-        <!--<item>
+        <item>
             <title>על הממשלה, גרעינים, ועוד</title>
             <link>https://RadioBenZvi.github.io/podcast/ATWAS/7</link>
             <description>
@@ -105,7 +105,7 @@
             <itunes:image href="https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png"/>
             <itunes:season>1</itunes:season>
             <itunes:episodeType>full</itunes:episodeType>
-        </item>-->
+        </item>
         <!--    //     -->
         <!--    //     -->
         <!--    //     -->
