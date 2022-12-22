@@ -2,7 +2,7 @@
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title>שיחה ללא נושא</title>
-        <link>https://RadioBenZvi.github.io/</link>
+        <link>https://ShakedKodPodcasts.studio/ATWAS</link>
         <description>
             <![CDATA[על החיים וכל השאר עם כל מיני אנשים משונים, מעניינים, ומוזרים בהנחיית שקד קוד.]]>
         </description>
@@ -13,10 +13,10 @@
         <image>
             <url>https://github.com/ShakedKod/ATWAS_Podcast/raw/main/images/logo.png</url>
             <title>שיחה ללא נושא</title>
-            <link>https://RadioBenZvi.github.io/podcast/ATWAS</link>
+            <link>https://ShakedKodPodcasts.studio/ATWAS</link>
         </image>
-        <lastBuildDate>Tue, 13 Sep 2022 11:28:43 +0000</lastBuildDate>
-        <itunes:author>Radio Ben Zvi</itunes:author>
+        <lastBuildDate>Thu, 22 Dec 2022 10:00:00 +0000</lastBuildDate>
+        <itunes:author>ShakedKod</itunes:author>
         <itunes:owner>
             <itunes:name>ShakedKod</itunes:name>
             <itunes:email>shakedkod@gmail.com</itunes:email>
@@ -39,7 +39,7 @@
         <!--    //     -->
         <item>
             <title>על הממשלה, גרעינים, ועוד</title>
-            <link>https://RadioBenZvi.github.io/podcast/ATWAS/7</link>
+            <link>https://ShakedKodPodcasts.studio/ATWAS/Ep7</link>
             <description>
                 <![CDATA[הפרק השביעי של שיחה ללא נושא עם שקד, יואב, ואלעד.
 בפרק זה הם מדברים על הממשלה המיועדת, מלחמות גרעיניות, ועוד נושאים מוזרים ומשונים
@@ -115,7 +115,7 @@
         <!--    //     -->
         <item>
             <title>גילי אמרה לי לקרוא לפרק הזה "שיחת בנות" - למרות שהוא לא</title>
-            <link>https://RadioBenZvi.github.io/podcast/ATWAS/6</link>
+            <link>https://ShakedKodPodcasts.studio/ATWAS/Ep6</link>
             <description>
                 <![CDATA[הפרק השישי של שיחה ללא נושא עם שקד, גילי, עומר, רוני, ליעד, שחר ואוריאן.
 בפרק זה הם מדברים על לימודים, סדרות משונות, ופרקים קודמים
@@ -173,7 +173,7 @@
         <!--    //     -->
         <item>
             <title>מה שלא היה נכנס - פרק בונוס</title>
-            <link>https://RadioBenZvi.github.io/podcast/ATWAS/5</link>
+            <link>https://ShakedKodPodcasts.studio/ATWAS/Ep5</link>
             <description>
                 <![CDATA[הפרק הזה הינו כל מה שלא נכנס לפרקים הרגילים עם הודעה מיוחדת לרוני שחר
                 האזנה נעימה!
@@ -242,7 +242,7 @@
         <!--    //     -->
         <item>
             <title>לאן הגענו?</title>
-            <link>https://RadioBenZvi.github.io/podcast/ATWAS/4</link>
+            <link>https://ShakedKodPodcasts.studio/ATWAS/Ep4</link>
             <description>
                 <![CDATA[הפרק הרביעי של שיחה ללא נושא עם שקד, רוני, ליעד, שירה, רוטמן, גלעד וגם כפי שידוע לי ישו משום מה.
 בפרק זה הם מדברים על פוליטיקה, נועה קירל, ומלא דברים רנדומליים אחרים
@@ -312,7 +312,7 @@
         <!--    //     -->
         <item>
             <title>מעולמות שונים</title>
-            <link>https://RadioBenZvi.github.io/podcast/ATWAS/3</link>
+            <link>https://ShakedKodPodcasts.studio/ATWAS/Ep3</link>
             <description>
                 <![CDATA[הפרק השלישי של שיחה ללא נושא עם שקד, טל, אלון, יואב, ליעד ואוריאן.
 בפרק זה הם מדברים על שירים, דברים רנדומליים, לימודים, קולה ועוד
@@ -382,7 +382,7 @@
         <!--    //     -->
         <item>
             <title>גרמנית, ג'אווה ועוד שירים</title>
-            <link>https://RadioBenZvi.github.io/podcast/ATWAS/2</link>
+            <link>https://ShakedKodPodcasts.studio/ATWAS/Ep2</link>
             <description>
                 <![CDATA[הפרק השני של שיחה ללא נושא עם שקד, טל, אלון, ושירה.
 בפרק זה הם מדברים על שפות מוזרות, על שירים, טניס ועוד
@@ -452,7 +452,7 @@
         <!--    //     -->
         <item>
             <title>על מבחנים, החיים ושירים</title>
-            <link>https://RadioBenZvi.github.io/podcast/ATWAS/1</link>
+            <link>https://ShakedKodPodcasts.studio/ATWAS/Ep1</link>
             <description>
                 <![CDATA[הפרק הראשון של שיחה ללא נושא עם שקד, טל, ויואב.
             בפרק זה הם מדברים על המבחנים הבאים, על שירים, פרסומות ועוד
